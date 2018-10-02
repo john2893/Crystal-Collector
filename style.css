@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+.row {
+    margin:10px;
+}
+
+.rules {
+    background-color: lightsalmon;
+}
+p{
+    font-size: 150%;
+    line-height: 150%;
+}
+
+.randomNum {
+    background-color: lightgreen;
+    padding: 3px;
+}
+.scoreDisplay {
+    background-color: rgb(155, 214, 155);
+}
+h1 {
+    font-size: 150%;
+    font-weight: bold;
+}
+.title, .final {
+    width:100%;
+    
+    background-color: lightgreen;
+}
+img {
+    width:200px;
+    height:200px;
+    border-radius: 50px;
+    border: 2px green solid;
+}
+.navbar-brand {
+    font-size: 250%;
+    font-weight: bold;
+}
